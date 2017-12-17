@@ -7,5 +7,4 @@ $ node app.js
 $ mongo
 $ use example
 $ show collections
-
 ```
