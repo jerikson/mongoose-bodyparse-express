@@ -1,0 +1,17 @@
+db.users.insert({
+  username: 'Vladmir Vorak',
+  email: 'vladmirVorak@example.com',
+  role: 'user'
+})
+
+db.users.insert({
+  username: 'Rosanna',
+  email: 'rosanna@example.com',
+  role: 'user'
+})
+
+db.users.insert({
+  username: 'MD.Manson',
+  email: 'mdmanson@example.com',
+  role: 'agent'
+})
